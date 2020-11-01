@@ -1,3 +1,5 @@
 grape
-banana
+strawberry
 kiwi
+orange
+peach
